@@ -1,0 +1,315 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+  color: #548ca8;
+}
+
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #548ca8;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #b5eaea;
+  padding: 15px;
+  padding-top: 80px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #fff;
+}
+
+.bottom-container {
+  background-color: #b5eaea;
+  margin-bottom: 0%;
+}
+
+.top-cloud {
+  width: 150px;
+  position: absolute;
+  right: 201px;
+}
+
+.bottom-cloud {
+  width: 150px;
+  position: absolute;
+  left: 240px;
+}
+
+.hills {
+  position: relative;
+  top: 40px;
+}
+
+.windmill {
+  width: 230px;
+  position: absolute;
+  bottom: 80px;
+  right: 275px;
+}
+
+.sun {
+  width: 100px;
+  position: absolute;
+  left: 800px;
+  top: 210px;
+}
+
+.forest {
+  width: 200px;
+  position: absolute;
+  top: 468px;
+  right: 11px;
+}
+
+.forest1 {
+  width: 200px;
+  position: absolute;
+  top: 468px;
+  right: 1050px;
+}
+
+.road {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 0px;
+}
+.road1 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 150px;
+}
+.road2 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 300px;
+}
+.road3 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 450px;
+}
+.road4 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 600px;
+}
+.road5 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 750px;
+}
+.road6 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 900px;
+}
+.road7 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  left: 1050px;
+}
+.road8 {
+  height: 150px;
+  position: absolute;
+  top: 626px;
+  right: 0px;
+}
+
+.car {
+  position: absolute;
+  top: 600px;
+}
+
+.turtle {
+  position: absolute;
+  top: 640px;
+  left: 40px;
+}
+
+.fox {
+  width: 40px;
+  position: absolute;
+  top: 628px;
+  left: 1040px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile-text {
+  width: 50%;
+  margin: 0 auto 30px;
+  line-height: 2;
+}
+.usama {
+  border-radius: 100%;
+  width: 130px;
+  margin-top: 50px;
+}
+
+.code {
+  width: 120px;
+}
+
+.mern {
+  width: 60px;
+}
+
+.webDevEssentials {
+  width: 60px;
+}
+
+.database {
+  width: 70px;
+  margin: 0 4px;
+}
+
+.skill-row {
+  display: inline-block;
+  margin-top: 50px;
+  width: 70%;
+  text-align: center;
+}
+
+.skill-image1 {
+  background-color: #b5eaea;
+
+  width: 140px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 25px;
+  margin-top: 45px;
+}
+
+.skill-image2 {
+  background-color: #b5eaea;
+
+  width: 140px;
+  border-radius: 100%;
+  float: right;
+
+  margin-top: 50px;
+}
+
+.skill-image3 {
+  background-color: #b5eaea;
+
+  width: 140px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+.skill-image4 {
+  background-color: #b5eaea;
+
+  width: 140px;
+  border-radius: 100%;
+  float: right;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.skill-image5 {
+  background-color: #b5eaea;
+
+  width: 140px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 25px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.skill-text {
+  text-align: left;
+  line-height: 2;
+  margin: 0 0 0 30px;
+}
+
+/* contact me section */
+
+.contact-me {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.contactmeButton {
+  background-color: #b5eaea;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Testimonial section */
+#testimonials {
+  background-color: #b5eaea;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.carousel-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+  margin: 30px 0 0 0;
+}
+
+.carousel-image2 {
+ width: 450px; 
+ height: 300px;
+ border-radius: 10px;
+}
+
+.carousel-image-restco {
+ width: 500px;
+ height: 500px;
+ border-radius: 5%;
+}
+
+.carousel-image-twitter {
+ width: 700px;
+ height: 450px;
+ border-radius: 5%;
+ margin-top: 25px;
+}
+
+.carousel-text-coown {
+ margin-bottom:30px;
+}
+
+.footerIcon {
+  margin: 10px 15px;
+}
+
+.copyright {
+  margin-bottom: 0px;
+}
