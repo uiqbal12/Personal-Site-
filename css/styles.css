@@ -302,6 +302,13 @@ h3 {
  margin-top: 25px;
 }
 
+.carousel-image-animalKingdom {
+  width: 700px;
+  height: 450px;
+  border-radius: 5%;
+  margin-top: 24px;
+}
+
 .carousel-text-coown {
  margin-bottom:30px;
 }
