@@ -317,16 +317,19 @@ h3 {
   height: 550px;
   border-radius: 5%;
   margin-top: 24px;
+  margin-bottom: 10px;
 }
 .carousel-image-mailChimp2 {
   width: 700px;
   height: 200px;
   border-radius: 2%;
+  margin-bottom: 10px;
 }
 .carousel-image-mailChimp3 {
   width: 500px;
   height: 450px;
   border-radius: 5%;
+  margin-bottom: 10px;
 }
 .footerIcon {
   margin: 10px 15px;
